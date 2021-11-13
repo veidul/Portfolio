@@ -9,4 +9,4 @@ I hope you enjoy my page
 -Ludie F. Lambright V
 
 [My Portfolio](https://veidul.github.io/Portfolio/)
-![Demo Image](.SS.png)
+![Demo Image](./SS.png)
