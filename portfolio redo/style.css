@@ -1,0 +1,50 @@
+*{font-family: 'Road Rage', cursive, sans-serif;}
+.fakeimg {
+    height: 200px;
+    background: #aaa;
+  }
+  h1{font-family: 'Monoton';}
+  h2{
+    font-family: 'Fredericka the Great', cursive;
+  } 
+  p{
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      font-weight: bolder;
+      font-size: medium;
+  }
+  .card{
+    height:fit-content;
+    color: black;
+    background-color: #aaa;
+  }
+  .nav-item{
+    width:fit-content;
+    
+  }
+
+  .name{
+    /* text-shadow: 5px 5px 5px black; */
+    background-color: black;
+  color: white;
+    
+  }
+  .hero-container{
+    display: flex; 
+    justify-content: center;
+  }
+  .about-me{
+    text-align: center;
+  }
+  .card-container{
+    display:flex;
+    justify-content: center;
+  }
+  body{
+    background-image: url("background.jpg");
+  }
+  @media (max-width: 1000px) { 
+    .card-container{display: block!important;
+      margin-left: 50%;
+    }
+
+  }
