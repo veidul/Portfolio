@@ -1,4 +1,8 @@
 *{font-family: 'Road Rage', cursive, sans-serif;}
+body {
+  background-image: url('./img/background.jpg');
+  color: whitesmoke;
+ }
 .fakeimg {
     height: 200px;
     background: #aaa;
