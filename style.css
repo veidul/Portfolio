@@ -1,8 +1,5 @@
 *{font-family: 'Road Rage', cursive, sans-serif;}
-body {
-  background-image: url('./img/background.jpg');
-  color: whitesmoke;
- }
+
 .fakeimg {
     height: 200px;
     background: #aaa;
@@ -25,7 +22,9 @@ body {
     width:fit-content;
     
   }
-
+ .card-pad{
+   margin:5px;
+ }
   .name{
     /* text-shadow: 5px 5px 5px black; */
     background-color: black;
@@ -39,16 +38,7 @@ body {
   .about-me{
     text-align: center;
   }
-  .card-container{
-    display:flex;
-    justify-content: center;
-  }
+
   body{
     background-image: url("background.jpg");
-  }
-  @media (max-width: 1000px) { 
-    .card-container{display: block!important;
-      margin-left: 50%;
-    }
-
   }
